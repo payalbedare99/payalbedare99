@@ -27,8 +27,7 @@ I am a passionate software developer with 2 years of professional experience, sp
 
 ## 💼 Professional Experience  
 
-### **Software Development Intern**  
-**Glowing Bud LLC.**, New York, USA | *Feb 2024 – May 2024*  
+### **Software Development Intern**  at **Glowing Bud LLC.**, New York, USA | *Feb 2024 – May 2024*  
 - Developed REST APIs to aggregate and analyze eSIM prices, integrated with Power BI dashboards for real-time insights.  
 - Built a subscription management platform for eSIM operators, enhancing efficiency for front-end and cloud systems.  
 
