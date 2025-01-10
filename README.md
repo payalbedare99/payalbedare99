@@ -62,7 +62,7 @@ Innovated a system for automated data extraction, reducing processing times by u
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=payalbdare99&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=payalbedare99&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=payalbedare99&layout=compact&theme=radical)  
 
 ---
