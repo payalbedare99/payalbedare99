@@ -15,8 +15,7 @@ I am a passionate software developer with 18+ months of professional experience,
 ### 🛠️ Skills  
 
 #### **Programming Languages & Databases**  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 - ![Apex](https://img.shields.io/badge/-Apex-00A1E0?logo=salesforce&logoColor=white)  
