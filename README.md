@@ -46,7 +46,7 @@ I am a passionate software developer with 2 years of professional experience, sp
 ## 🖥️ Featured Projects  
 
 ### [Repair Mate](#) *(Aug 2023 – Dec 2023)*  
-A full-stack web application for managing home services.  
+E-commerce platform for home service booking, integrating Google Maps API and OpenAI for recommendations. 
 - **Tech Stack:** React, Node.js, MongoDB, MySQL, OpenAI API, Google Maps API  
 
 ### [I/O Identity Algorithm](#) *(Jan 2023 – May 2023)*  
